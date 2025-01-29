@@ -22,11 +22,7 @@ O principal objetivo do dashboard é fornecer uma **visão clara e objetiva do d
 - **Segmentação por Região**: Identificação de áreas de maior crescimento.
 - **Métricas de Crescimento**: Cálculo da taxa de crescimento e sazonalidade das vendas.
 
-## 🎡 Insights Obtidos
-1. ⭐ **Produto mais vendido**: [Produto X] apresentou o maior volume de vendas.
-2. 🌟 **Região mais lucrativa**: [Região Y] teve o maior faturamento.
-3. 📊 **Tendência de crescimento**: As vendas aumentaram no [período Z].
-4. ⚡ **Melhoria em produtos com baixo desempenho**: Algumas categorias precisariam de ajuste na estratégia de marketing.
+
 
 ## 🔍 Como Visualizar o Relatório
 Para acessar o dashboard interativo, abra o arquivo **.pbix** no Power BI Desktop ou visualize a versão exportada em **PDF**.
